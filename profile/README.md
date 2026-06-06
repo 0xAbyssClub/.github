@@ -53,3 +53,11 @@ Windows 内核是所有方向的底层基础设施——反作弊驱动、攻击
 2.[iOS 18.4至18.7系统的漏洞利用工具包](https://t.me/c/2807155870/413/1761)   
 3.[针对IOS 18.6  Link ](https://github.com/rooootdev/lara/releases/download/latest/lara.ipa)  
 4.Dopamine https://t.me/c/2807155870/413/1573  
+
+💻**备份区**  
+1.[Reverse-Engineering— 真正的技术，从来不是遵守规则，而是解构规则。](https://github.com/EsnBl0ckdev/Reverse-Engineering)  
+2.[Bl0ckdev-RE— 0xAbyss与关注进攻性红队的ESN技术社区合作公开仓库](https://github.com/EsnBl0ckdev/Bl0ckdev-RE)  
+3.[工具储存仓库备份](https://github.com/EsnBl0ckdev/gongju-cang)  
+4.[订阅用户仓](https://github.com/EsnBl0ckdev/yonghu)  
+
+
